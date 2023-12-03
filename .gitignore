@@ -1,0 +1,8 @@
+# Ignore all files and directories in data/sat_image
+res.txt
+pix_data.txt
+after_process.txt
+res2.csv
+result.jpg
+.idea
+__pycache__
